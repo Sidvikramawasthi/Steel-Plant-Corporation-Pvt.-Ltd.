@@ -1,9 +1,0 @@
-{
- "source_file":"Claude(1).pdf",
- "classification":"reference_only_synthetic_survey_dashboard",
- "source_warning":"The PDF states the 5,000 respondents are synthetic demonstration data, not actual Steel Corporation Pvt. Ltd. customers or real survey participants.",
- "context":"Employment/job-search difficulty, industry readiness, AI awareness/adoption, digital product interest and monthly willingness to pay.",
- "page_1":{"respondents":5000,"currently_employed":1738,"unemployed":575,"active_job_seekers":2087,"job_search_difficulty_mean_5":3.20,"industry_readiness_mean_5":2.98,"ai_awareness_percent":37.9,"ai_adoption_percent":55.1,"product_interest_percent":64.7,"willingness_to_pay_percent":53.1,"net_promoter_score":2.5},
- "page_4_insights":["Unemployed respondents: job-search difficulty 3.91/5 (n=575), versus 3.20 overall.","Class 10 holders: lowest job readiness 2.36/5 (n=221).","Respondent concentration: Other Tier 2/3 20.3%, Delhi NCR 12.0%, Bengaluru 10.6%; concentration is not market size.","Perceived AI skill gap: 55.4% believe employers want AI skills, 13.2% report having them; gap 42.3 percentage points.","Age 18–21 leads AI adoption index at 60/100 (n=862).","Employed respondents report highest mean willingness to pay INR 464/month; stated intent, not observed spending."],
- "usage_rule":"Keep separate from UCI steel fault data; do not present as company customers or plant metrics."
-}
